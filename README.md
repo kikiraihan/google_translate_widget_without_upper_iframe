@@ -7,3 +7,5 @@ Of course we do not hide the words "Powered by Google Translate" as an etiquette
 
 Related content
 https://wordpress.com/support/widgets/google-translate-widget/
+
+Note: Please pay attention to Google's terms for commercial and non-commercial use.
