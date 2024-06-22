@@ -18,12 +18,10 @@ Note: Please pay attention to Google's terms for commercial and non-commercial u
 1. Download the code template:
 You can directly download the HTML file template from the repository.
 
-<br>
 2. Script Tags Explanation:
 The first script initializes the Google Translate widget.
 The second script hides the unwanted top iframe bar.
 
-<br>
 3. Modify tags within the body:
 Tags with the class notranslate indicate sections that will not be translated.
 Tags with the class translate indicate sections that will be translated.
