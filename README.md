@@ -23,6 +23,7 @@ The first script initializes the Google Translate widget.
 The second script hides the unwanted top iframe bar.
 
 3. Modify tags within the body:
-Tags with the class notranslate indicate sections that will not be translated.
-Tags with the class translate indicate sections that will be translated.
-The div tag with the class google_translate_button is where the translate button will appear.
+here the tags:
+- Tag with the class notranslate indicate sections that will not be translated.
+- Tag with the class translate indicate sections that will be translated.
+- The div tag with the class google_translate_button is where the translate button will appear.
